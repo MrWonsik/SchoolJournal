@@ -1,0 +1,9 @@
+N1 Jaros³aw Niedba³a matematyka 1a ;
+N2 Agnieszka S³aba polski 1a 2a 3a ;
+N3 Miros³aw Zelent matematyka 2a 3a ;
+N4 Paulina Trytka angielski 1a 2a ;
+N5 Genowefa Cicha angielski 3a ;
+N6 Roman Wolny WF 1a 2a 3a ;
+N7 Monika Ptak biologia 1a 2a 3a ;
+N8 Grzegorz Mieszko historia 1a 2a 3a ;
+N9 Donald Spo³eczny WOS 1a 2a 3a ;
